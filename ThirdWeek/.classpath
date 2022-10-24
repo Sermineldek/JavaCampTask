@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Homework1/youtubeDemo/src"/>
+	<classpathentry kind="src" path="Homework1/youtubeEgitim/src"/>
+	<classpathentry kind="src" path="Homework2/abstractClasses/src"/>
+	<classpathentry kind="src" path="Homework2/abstractDemo/src"/>
+	<classpathentry kind="src" path="Homework2/classesWithAttributes/src"/>
+	<classpathentry kind="src" path="Homework2/inheritance/src"/>
+	<classpathentry kind="src" path="Homework2/inheritanceDemo/src"/>
+	<classpathentry kind="src" path="Homework2/interfaceDemo/src"/>
+	<classpathentry kind="src" path="Homework2/interfaces/src"/>
+	<classpathentry kind="src" path="Homework2/methodOverloading/src"/>
+	<classpathentry kind="src" path="Homework2/overriding/src"/>
+	<classpathentry kind="src" path="Homework2/polymorphismDemo/src"/>
+	<classpathentry kind="src" path="Homework2/staticDemo/src"/>
+	<classpathentry kind="src" path="Homework3/kodlamaİo/src"/>
+	<classpathentry kind="output" path="Homework1/youtubeDemo/bin"/>
+</classpath>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="FirstWeek/arkadasSayilar/src"/>
+	<classpathentry kind="src" path="FirstWeek/conditionals/src"/>
+	<classpathentry kind="src" path="FirstWeek/datatypes/src"/>
+	<classpathentry kind="src" path="FirstWeek/Javademos/src"/>
+	<classpathentry kind="src" path="FirstWeek/loopDemo/src"/>
+	<classpathentry kind="src" path="FirstWeek/loopDemo1/src"/>
+	<classpathentry kind="src" path="FirstWeek/miniProjeAsalSayı/src"/>
+	<classpathentry kind="src" path="FirstWeek/multiDimensionalArrayDemo/src"/>
+	<classpathentry kind="src" path="FirstWeek/mükemmelSayı/src"/>
+	<classpathentry kind="src" path="FirstWeek/recapDemo 1/src"/>
+	<classpathentry kind="src" path="FirstWeek/reCapDemo2/src"/>
+	<classpathentry kind="src" path="FirstWeek/sayiBulma/src"/>
+	<classpathentry kind="src" path="FirstWeek/sesliHarfler/src"/>
+	<classpathentry kind="src" path="FirstWeek/stringsDemo/src"/>
+	<classpathentry kind="src" path="FirstWeek/stringsDemo1/src"/>
+	<classpathentry kind="src" path="FirstWeek/switchDemo/src"/>
+	<classpathentry kind="src" path="FirstWeek/variables/src"/>
+	<classpathentry kind="src" path="SecondWeek/classes/src"/>
+	<classpathentry kind="src" path="SecondWeek/classesWithAttributes/src"/>
+	<classpathentry kind="src" path="SecondWeek/inheritance/src"/>
+	<classpathentry kind="src" path="SecondWeek/inheritanceDemo/src"/>
+	<classpathentry kind="src" path="SecondWeek/methodOverloading/src"/>
+	<classpathentry kind="src" path="SecondWeek/methods/src"/>
+	<classpathentry kind="src" path="SecondWeek/methods2/src"/>
+	<classpathentry kind="src" path="SecondWeek/reCapDemo_Classes/src"/>
+	<classpathentry kind="output" path="SecondWeek/classes/bin"/>
+</classpath>
